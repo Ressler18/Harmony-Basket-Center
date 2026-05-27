@@ -2,16 +2,16 @@
 
 Bienvenue dans le dépôt du projet Harmony Basket Center.
 
-## 📋 Branches
+## Branches
 
 - **main** : Branche de production (stable)
 - **dev** : Branche de développement actif
 
-## 📝 Description
+## Description
 
 Ce dépôt contient le code source pour le projet Harmony Basket Center.
 
-## 🚀 Démarrage
+## Démarrage
 
 Pour cloner le dépôt :
 ```bash
