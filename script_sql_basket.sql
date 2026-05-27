@@ -2,13 +2,6 @@ create database Basket ;
 
 use Basket ; 
 
-DROP TABLE IF EXISTS statistiques_journalieres;
-DROP TABLE IF EXISTS reservations;
-DROP TABLE IF EXISTS creneaux;
-DROP TABLE IF EXISTS terrains;
-DROP TABLE IF EXISTS utilisateurs;
-
-
 CREATE TABLE utilisateurs (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nom VARCHAR(50) NOT NULL,
